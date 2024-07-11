@@ -45,3 +45,5 @@ The visualization provides informative insights into the factors that make footb
 ## Acknowledgements
 
 - Thanks to FiveThirtyEight for providing the dataset.
+
+You can find our app at: https://visualization-project-x28ojk2i9lsptwu6d8qt2c.streamlit.app/
